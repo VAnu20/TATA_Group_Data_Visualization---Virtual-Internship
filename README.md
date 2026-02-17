@@ -97,7 +97,7 @@ After the data was prepared, I created the following visualizations using **Powe
 
 - **Purpose:** To help the CEO understand monthly revenue fluctuations and identify peak periods.
 
-  ![Screenshot 2024-09-06 182341]()
+  ![Screenshot]()
 
 #### Visual 2: Top 10 Countries by Revenue and Quantity Sold (CMO Request)
 
@@ -105,7 +105,7 @@ After the data was prepared, I created the following visualizations using **Powe
 
 - **Purpose:** To analyze which countries drive the highest revenue and assess the quantity sold in those regions.
   
-  ![Screenshot 2024-09-06 190327]()
+  ![Screenshot]()
 
 #### Visual 3: Top 10 Customers by Revenue (CMO Request)
 
@@ -113,7 +113,7 @@ After the data was prepared, I created the following visualizations using **Powe
 
 - **Purpose:** To help the CMO target high-revenue customers and ensure their satisfaction to foster continued business.
 
-  ![Screenshot 2024-09-06 190346]()
+  ![Screenshot ]()
 
 #### Visual 4: Global Product Demand by Country (CEO Request)
 
@@ -121,7 +121,7 @@ After the data was prepared, I created the following visualizations using **Powe
 
 - **Purpose:** To assist the CEO in identifying countries with the greatest demand for the company’s products.
   
-  ![Screenshot 2024-09-06 190406]()
+  ![]()
 
 ### Findings
 
@@ -138,10 +138,6 @@ After the data was prepared, I created the following visualizations using **Powe
 - **Global Product Demand by Country**
   - North America and parts of Europe stand out with high demands, as indicated by larger circles.
   - Regions like Africa and South America show samller circles, suggesting potential growth opportunities.
-    
-- **Total Orders over Time**
-  - Highest number of orders are around midday i.e. between 12PM to 2PM.
-  - The number of orders fluctuates throughout the day.
 
 ### Conclusion
 

@@ -51,25 +51,23 @@ I was asked to draft four questions each for the **CEO** and the **CMO** to guid
 
 #### Questions for CEO:
 
-**1.** What are the major factors contributing to revenue?
+**1.** What has been the monthly revenue trend over the past year, and are there specific seasonal peaks we should prepare for in terms of inventory?
 
-**2.** How have our sales changed over the past year, and what do we expect for the next quarter?
+**2.** Which countries (excluding the UK) are generating the highest revenue, and what is the quantity of goods sold in those regions?
 
-**3.** How effective are our current marketing and sales strategies based on the dataset?
+**3.** Who are our top 10 customers by revenue, and how much does our business rely on these high-value individuals versus the general customer base?
 
-**4.** How has our overall business performance evolved month-over-month and year-over-year?
+**4.** Based on the geographic demand, which regions show the strongest potential for a physical warehouse or office expansion?
 
 #### Questions for CMO:
 
-**1.** How is our company performing in each country?
+**1.** What is the demographic breakdown of our revenue, and which countries should we prioritize for localized marketing campaigns?
 
-**2.** What are seasonal trends in our data?
+**2.** How does the quantity sold per transaction correlate with unit price across different regions?
 
-**3.** Which products are purchased by our customers, and what is the frequency of repeat purchases for these products?
+**3.** Are there specific months where marketing spend should be increased to capitalize on naturally occurring upward sales trends?"
 
 **4.** What are the peak hours of the day during which our customers are most active and make purchases?
-
-**5.** Which products are the top sellers in terms of quantity purchased, and what are the total sales figures for these products?
 
 ### Task 2 - Creating Effective Visuals
 

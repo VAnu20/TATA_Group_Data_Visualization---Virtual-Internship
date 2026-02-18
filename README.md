@@ -95,7 +95,7 @@ After the data was prepared, I created the following visualizations using **Powe
 
 - **Purpose:** To help the CEO understand monthly revenue fluctuations and identify peak periods.
 
-  ![Screenshot]()
+  ![Screenshot](https://github.com/VAnu20/TATA_Group_Data_Visualization---Virtual-Internship/blob/main/TATA%20Dashboard-Q1.jpg?raw=true)
 
 #### Visual 2: Top 10 Countries by Revenue and Quantity Sold (CMO Request)
 
@@ -103,7 +103,7 @@ After the data was prepared, I created the following visualizations using **Powe
 
 - **Purpose:** To analyze which countries drive the highest revenue and assess the quantity sold in those regions.
   
-  ![Screenshot]()
+  ![Screenshot](https://github.com/VAnu20/TATA_Group_Data_Visualization---Virtual-Internship/blob/main/TATA%20Dashboard-Q2.jpg?raw=true)
 
 #### Visual 3: Top 10 Customers by Revenue (CMO Request)
 
@@ -111,7 +111,7 @@ After the data was prepared, I created the following visualizations using **Powe
 
 - **Purpose:** To help the CMO target high-revenue customers and ensure their satisfaction to foster continued business.
 
-  ![Screenshot ]()
+  ![Screenshot ](https://github.com/VAnu20/TATA_Group_Data_Visualization---Virtual-Internship/blob/main/TATA%20Dashboard-Q3.jpg?raw=true)
 
 #### Visual 4: Global Product Demand by Country (CEO Request)
 
@@ -119,7 +119,7 @@ After the data was prepared, I created the following visualizations using **Powe
 
 - **Purpose:** To assist the CEO in identifying countries with the greatest demand for the company’s products.
   
-  ![]()
+  ![Screenshot](https://github.com/VAnu20/TATA_Group_Data_Visualization---Virtual-Internship/blob/main/TATA%20Dashboard-Q4.jpg?raw=true)
 
 ### Findings
 
